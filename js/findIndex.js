@@ -1,5 +1,3 @@
-
-
 var doms = {
     audio: document.querySelector('audio'),
     ul: document.querySelector('ul'),
